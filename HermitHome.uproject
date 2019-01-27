@@ -3,7 +3,7 @@
 	"EngineAssociation": "4.21",
 	"Category": "",
 	"Description": "",
-	"Enterprise": true,
+	"Enterprise": false,
 	"Plugins": [
 		{
 			"Name": "OculusVR",
