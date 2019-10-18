@@ -3,6 +3,11 @@ A game about a hermit crab looking for a new home. Made at the 2019 Global Game 
 
 As a Hermit crab, you outgrow your shell as you eat and will have to find a new place to call home. 
 
+# Download
+Download the final build at https://globalgamejam.org/2019/games/growing-home 
+
+This game is designed to be deployed to Android and built in UE4. You will need the android's SDK to build it. This was tested on a Samsung Galaxy Note 8.
+
 # Controls
 * Digital Thumbstick - Move 
 * Stop moving - Curl up into a ball
@@ -11,7 +16,4 @@ As a Hermit crab, you outgrow your shell as you eat and will have to find a new 
 * Fundamentals of Unreal Engine 4
 * UI design and implementation in UE4
 
-# 
-Download the final build at https://globalgamejam.org/2019/games/growing-home 
 
-This game is designed to be deployed to Android and built in UE4. You will need the android's SDK to build it. This was tested on a Samsung Galaxy Note 8.
