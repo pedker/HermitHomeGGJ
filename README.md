@@ -13,4 +13,5 @@ As a Hermit crab, you outgrow your shell as you eat and will have to find a new 
 
 # 
 Download the final build at https://globalgamejam.org/2019/games/growing-home 
+
 This game is designed to be deployed to Android and built in UE4. You will need the android's SDK to build it. This was tested on a Samsung Galaxy Note 8.
